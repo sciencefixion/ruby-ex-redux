@@ -5,7 +5,7 @@ This is a work in progress...
 What follows is a reimagining of the classic ruby-exercises repo, set up in the suggested order so practicing and progressing is as straightforward as possible. It's just a small change that gave me a reason to get back into this repo and practice myself. Enjoy! :)
 
 Below is the full README from the original repo which has been included because it's so informative and useful.
-To progress through my version of the repo, just follow the folder structure starting with week 1 after completing setup.
+To progress through my version of the repo, just follow the folder structure starting with zone 1 after completing setup.
 
 # Ruby Exercises
 
